@@ -19,4 +19,4 @@ changes to master on production
 
 ## Copyright
 
-2014 Git.Training
+2014 Git.Training. All Rights Reserved.
