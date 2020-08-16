@@ -6,6 +6,7 @@ Adding a line for rebasing example, then more changes from myfeature branch too
 ## Introduction
 
 Another change
+Emergency fix after stashing
 
 ## Purpose
 
