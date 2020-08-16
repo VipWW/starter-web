@@ -14,6 +14,8 @@ One more change
 
 ## How to Contribute
 
+changes to master on production
+
 ## Copyright
 
 2014 Git.Training
